@@ -2,11 +2,18 @@
 
 A forensic analysis of the Heston-Nandi GARCH model applied to S&P 500 option pricing.  
 **Author:** Jakob Troger | Financial Econometrics, University of Vienna | January 2026
-
 ---
-This is my first coding project and my first time using GitHub. I'm an Economics and Statistics student, not a computer scientist — so if you stumble across something that looks clunky or inefficient, that's probably why. Everything you see here was built from scratch alongside my Financial Econometrics course, learning as I went.
-I'm still very much on the journey of learning to code, and this project represents an early milestone in that process. I'm proud of how it turned out given where I started.
-Feedback and suggestions are genuinely welcome — I'm always looking to improve
+
+*A personal note: This is my first coding project and my first time using 
+GitHub. I'm an Economics and Statistics student, not a computer scientist — 
+so if you stumble across something that looks clunky or inefficient, that's 
+probably why. Everything you see here was built from scratch alongside my 
+Financial Econometrics course, learning as I went. I'm still very much on 
+the journey of learning to code, and this project represents an early 
+milestone in that process. I'm proud of how it turned out given where I 
+started, but please be gentle 😄 — feedback and suggestions are genuinely 
+welcome.*
+
 ---
 
 ## Overview
