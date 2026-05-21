@@ -125,9 +125,11 @@ Under the risk-neutral measure Q, the leverage parameter shifts to γ* = γ + λ
 
 ## A Personal Note
 
-This is my first coding project and my first time using GitHub. I'm a Finance student, not a computer scientist — so if you're reading this and something looks clunky or inefficient, that's why. I learned everything needed for this project from scratch alongside my Financial Econometrics course. I'm proud of how it turned out, but please be gentle. 😄
+This is my first coding project and my first time using GitHub. I'm a Finance student, not a computer scientist — so if you're reading this and something looks clunky or inefficient, that's why. I learned everything needed for this project from scratch alongside my Financial Econometrics course. I'm proud of how it turned out, but please be gentle.
 
 Feedback is genuinely welcome.
+
+
 
 ---
 
